@@ -1,0 +1,17 @@
+#d1 {
+  border: 1px solid;
+  
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 1000px;
+  height: 1130px;
+  background-color: rgb(119, 190, 215);
+}
+#a1 {
+  background-color:darksalmon;
+  width: 1030px;
+}
+#b2 {
+  background-color: darksalmon;
+  width: 1030px;
+}
